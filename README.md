@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="videopong_esp32.jpg" alt="Vectorgameboard Video Pong" width="600">
+</p>
+
 # ESP32 PAL Pong - Vectorgameboard V1.0
 
 Dieses Projekt ist eine klassische Pong-Umsetzung für den **ESP32**, die ein echtes **PAL-Videosignal** (Composite/FBAS) direkt über einen GPIO erzeugt. Ursprünglich als Demonstration für einen FH-Tag entwickelt, nutzt der Code das volle Potenzial des eigens dafür entwickelten **Vectorgameboards**.
